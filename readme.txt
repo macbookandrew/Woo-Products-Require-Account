@@ -15,8 +15,13 @@ Adds a checkbox on each WooCommerce product edit page that allows you to require
 Adds a checkbox on each WooCommerce product edit page that allows you to require an account to purchase that product, even if guest mode is enabled globally.
 
 == Installation ==
+
 1. Install the plugin.
 2. Edit any WooCommerce product and enable the checkbox on the “General” tab.
+
+== Screenshotss ==
+
+1. Checkbox on edit product screen
 
 == Changelog ==
 
