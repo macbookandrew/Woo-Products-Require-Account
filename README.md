@@ -19,9 +19,11 @@ Adds a checkbox on each WooCommerce product edit page that allows you to require
 1. Install the plugin.
 2. Edit any WooCommerce product and enable the checkbox on the “General” tab.
 
-## Screenshotss ##
+## Screenshots ##
 
-1. Checkbox on edit product screen
+### 1. Checkbox on edit product screen ###
+![Checkbox on edit product screen](http://ps.w.org/woo-customers-robly/assets/screenshot-1.png)
+
 
 ## Changelog ##
 
