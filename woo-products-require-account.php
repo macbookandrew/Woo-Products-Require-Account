@@ -4,7 +4,7 @@
  * Plugin URI: http://andrewrminion.com/2016/03/woo-products-require-account/
  * Description: Adds a checkbox on each WooCommerce product edit page that allows you to require an account to purchase that product, even if guest mode is enabled.
  * Version: 1.0.2
- * Author: AndrewRMinion Design
+ * Author: Andrew Minion
  * Author URI: https://www.andrewrminion.com
 */
 
